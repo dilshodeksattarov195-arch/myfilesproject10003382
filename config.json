@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfave",
+        "uuid": 1616596,
+        "checksum": "pdm0il"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
